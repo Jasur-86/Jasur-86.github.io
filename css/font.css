@@ -1,0 +1,27 @@
+@font-face {
+    font-family: 'Cuprum';
+    src: url('../fonts/Cuprum-Regular.eot');
+    src: url('../fonts/Cuprum-Regular.eot?#iefix') format('embedded-opentype'),
+    url('../fonts/Cuprum-Regular.woff') format('woff'),
+    url('../fonts/Cuprum-Regular.ttf') format('truetype');
+    font-weight: 300;
+    font-style: normal;
+    }
+@font-face {
+    font-family: 'Cuprum';
+    src: url('../fonts/Cuprum-Italic.eot');
+    src: url('../fonts/Cuprum-Italic.eot?#iefix') format('embedded-opentype'),
+    url('../fonts/Cuprum-Italic.woff') format('woff'),
+    url('../fonts/Cuprum-Italic.ttf') format('truetype');
+    font-weight: 500;
+    font-style: normal;
+    }
+@font-face {
+    font-family: 'Cuprum';
+    src: url('../fonts/Cuprum-Bold.eot');
+    src: url('../fonts/Cuprum-Bold.eot?#iefix') format('embedded-opentype'),
+    url('../fonts/Cuprum-Bold.woff') format('woff'),
+    url('../fonts/Cuprum-Bold.ttf') format('truetype');
+    font-weight: 700;
+    font-style: normal;
+    }
